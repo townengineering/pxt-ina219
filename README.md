@@ -1,6 +1,6 @@
 # INA219 Current / Voltage Sensor for micro:bit (MakeCode)
 
-This MakeCode extension adds support for the Adafruit INA219 current and power sensor breakout board.
+This MakeCode extension adds support for the Adafruit INA219 current and power sensor breakout board. (https://www.adafruit.com/product/904)
 
 It allows a micro:bit to measure:
 
