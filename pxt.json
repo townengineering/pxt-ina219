@@ -1,19 +1,19 @@
 {
-    "name": "pxt-ina219",
-    "description": "",
+    "name": "ina219",
+    "version": "0.0.1",
+    "description": "INA219 current/voltage/power sensor (Adafruit breakout) for micro:bit",
+    "license": "MIT",
     "dependencies": {
         "core": "*",
-        "radio": "*",
         "microphone": "*"
     },
     "files": [
-        "main.blocks",
-        "main.ts",
-        "README.md"
+        "ina219.ts"
     ],
     "testFiles": [
         "test.ts"
     ],
+    "public": true,
     "targetVersions": {
         "target": "8.0.18",
         "targetId": "microbit"
